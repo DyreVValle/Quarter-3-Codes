@@ -13,5 +13,3 @@ city_temps = np.array([days, tokyo_temp, kyoto_temp])
 #access
 print(f"Tokyo's temperature on Wednesday: {tokyo_temp[3]}°C")
 print(f"Kyoto's temperature on Friday: {kyoto_temp[5]}°C")
-
-
